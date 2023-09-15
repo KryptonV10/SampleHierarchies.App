@@ -1,0 +1,49 @@
+{
+  "LineEntries": [
+    {
+      "ForeGroundColor": 3,
+      "BackGroundColor": 4,
+      "Text": "MainScreen"
+    },
+    {
+      "ForeGroundColor": 3,
+      "BackGroundColor": 4,
+      "Text": "Your available choices are:"
+    },
+    {
+      "ForeGroundColor": 3,
+      "BackGroundColor": 4,
+      "Text": "0. Exit"
+    },
+    {
+      "ForeGroundColor": 3,
+      "BackGroundColor": 4,
+      "Text": "1. Animals"
+    },
+    {
+      "ForeGroundColor": 3,
+      "BackGroundColor": 4,
+      "Text": "2. Create a new settings"
+    },
+    {
+      "ForeGroundColor": 3,
+      "BackGroundColor": 4,
+      "Text": "Please enter your choice:"
+    },
+    {
+      "ForeGroundColor": 3,
+      "BackGroundColor": 4,
+      "Text": "Not yet implemented."
+    },
+    {
+      "ForeGroundColor": 3,
+      "BackGroundColor": 4,
+      "Text": "Goodbye."
+    },
+    {
+      "ForeGroundColor": 3,
+      "BackGroundColor": 4,
+      "Text": "Invalid choice. Try again."
+    }
+  ]
+}
