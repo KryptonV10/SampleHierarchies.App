@@ -1,0 +1,134 @@
+{
+  "LineEntries": [
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "MainScreen -> AnimalsScreen -> MammalsScreen -> FlyingSquirrelsScreen"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Your available choices are:"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "0. Exit"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "1. List all flying squirrels"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "2. Create a new flying squirrel"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "3. Delete existing flying squirrel"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "4. Modify existing flying squirrel"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Please enter your choice: "
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Going back to parent menu."
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Invalid choice. Try again."
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Here's a list of flying squirrels:"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "The list of flying squirrels is empty."
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Invalid input."
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "What is the name of the flying squirrel you want to delete?"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Flying squirrel not found."
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Invalid input."
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "What is the name of the flying squirrel you want to edit?"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Flying squirrel after edit:"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Flying squirrel not found."
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "Invalid input. Try again."
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "What name of the flying squirrel?"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "What is the flying squirrel's age?"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "What is the air speed of the flying squirrel?"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "What is the paw span of the flying squirrel?"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "What is the fur color of the flying squirrel?"
+    },
+    {
+      "ForeGroundColor": 11,
+      "BackGroundColor": 13,
+      "Text": "What is the habitat of the flying squirrel?"
+    }
+  ]
+}
