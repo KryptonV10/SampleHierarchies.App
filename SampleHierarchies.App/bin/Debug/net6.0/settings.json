@@ -1,0 +1,12 @@
+{
+  "screenColors": {
+    "MainScreen": 12,
+    "AnimalsScreen": 9,
+    "MammalsScreen": 1,
+    "DogsScreen": 6,
+    "TigersScreen": 15,
+    "FlyingSquirrelsScreen": 10,
+    "HedgehogsScreen": 3
+  },
+  "Version": "1.1.0"
+}
